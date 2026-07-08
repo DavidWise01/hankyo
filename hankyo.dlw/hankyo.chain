@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 266
+slug  : hankyo
+seal  : fc1337f53f8cf64dbcdac7aadfdb0b04878cad3c2ee94d1a9bb0c7ce104b6300
+prev  : 735c7d7d894e69d57dae2c451027b60713d4ff6f5d64babf9a2f3b9c901890cc
+link  : 91eb2431dd793c363c9fcc3e226c0cbee68760696dd0c0a1934caa2d99677916
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
